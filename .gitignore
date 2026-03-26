@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Data
+# *.csv
+*.tsv
+*.dat
+*.data
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.bak
+*.swp
+*.tmp
+
+# Ignore model artifacts
+*.h5
+*.pkl
+*.joblib
+*.sav
+
+# Ignore PDF and report outputs
+*.pdf
+*.docx
+*.xlsx
