@@ -1,7 +1,10 @@
 # pip install -r requirements.txt
 
-scikit-learn
-seaborn
-notebook
 pandas
+numpy
 matplotlib
+seaborn
+scikit-learn
+notebook
+jinja2
+ipykernel
